@@ -2,4 +2,4 @@
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Takihamu&layout=compact)
 
 
-#### 犬とウサギが好き
+#### official髭暖房器具

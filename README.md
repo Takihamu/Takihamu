@@ -2,4 +2,4 @@
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Takihamu&layout=compact)
 
 
-#### official髭団地住み
+#### official髭団地暮らし
